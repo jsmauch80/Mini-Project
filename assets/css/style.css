@@ -1,0 +1,38 @@
+img {
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    display: block;
+}
+
+figcaption {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 10%;
+}
+
+#dad {
+    height: 300px;
+  background-image: linear-gradient(to right, white, red);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    border: 1px solid black;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    background-color: grey;
+}
